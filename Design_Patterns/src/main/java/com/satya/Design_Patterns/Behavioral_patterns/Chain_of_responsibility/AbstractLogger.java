@@ -1,4 +1,4 @@
-package com.Satyanarayana.Design_Patterns.Behavioral_patterns.Chain_of_responsibility;
+package com.Saisnigdha.Design_Patterns.Behavioral_patterns.Chain_of_responsibility;
 
 public abstract class AbstractLogger {
    public static int INFO = 1;
