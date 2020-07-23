@@ -1,1 +1,1 @@
-# satyanarayana_Design_Patterns
+# Nithin_Design_Patterns
